@@ -92,8 +92,8 @@ map <leader>tn :tabnew<cr>    " To create a new tab.
 map <leader>to :tabonly<cr>     " To close all other tabs (show only the current tab).
 map <leader>tc :tabclose<cr>    " To close the current tab.
 map <leader>tm :tabmove<cr>     " To move the current tab to next position.
-map <leader>tn :tabn<cr>        " To swtich to next tab.
-map <leader>tp :tabp<cr>        " To switch to previous tab.
+map <leader>tl :tabn<cr>        " To swtich to next tab.
+map <leader>th :tabp<cr>        " To switch to previous tab.
 
 
 
