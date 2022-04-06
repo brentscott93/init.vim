@@ -107,3 +107,8 @@ let R_rmd_environment = 'new.env()'
 let R_clear_line = 1
 let R_openhtml = 1
 
+"exit terminal with escape
+tnoremap <leader><Esc> <C-\><C-n>
+
+"open terminal in new tab
+nnoremap <leader>tt :tabnew<CR>:terminal<CR>i
